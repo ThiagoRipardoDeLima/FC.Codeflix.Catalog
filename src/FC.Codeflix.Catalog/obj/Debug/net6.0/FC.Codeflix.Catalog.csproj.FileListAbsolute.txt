@@ -1,0 +1,12 @@
+C:\dev\FC.Codeflix.Catalog\src\FC.Codeflix.Catalog\bin\Debug\net6.0\FC.Codeflix.Catalog.deps.json
+C:\dev\FC.Codeflix.Catalog\src\FC.Codeflix.Catalog\bin\Debug\net6.0\FC.Codeflix.Catalog.dll
+C:\dev\FC.Codeflix.Catalog\src\FC.Codeflix.Catalog\bin\Debug\net6.0\FC.Codeflix.Catalog.pdb
+C:\dev\FC.Codeflix.Catalog\src\FC.Codeflix.Catalog\obj\Debug\net6.0\FC.Codeflix.Catalog.csproj.AssemblyReference.cache
+C:\dev\FC.Codeflix.Catalog\src\FC.Codeflix.Catalog\obj\Debug\net6.0\FC.Codeflix.Catalog.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\FC.Codeflix.Catalog\src\FC.Codeflix.Catalog\obj\Debug\net6.0\FC.Codeflix.Catalog.AssemblyInfoInputs.cache
+C:\dev\FC.Codeflix.Catalog\src\FC.Codeflix.Catalog\obj\Debug\net6.0\FC.Codeflix.Catalog.AssemblyInfo.cs
+C:\dev\FC.Codeflix.Catalog\src\FC.Codeflix.Catalog\obj\Debug\net6.0\FC.Codeflix.Catalog.csproj.CoreCompileInputs.cache
+C:\dev\FC.Codeflix.Catalog\src\FC.Codeflix.Catalog\obj\Debug\net6.0\FC.Codeflix.Catalog.dll
+C:\dev\FC.Codeflix.Catalog\src\FC.Codeflix.Catalog\obj\Debug\net6.0\refint\FC.Codeflix.Catalog.dll
+C:\dev\FC.Codeflix.Catalog\src\FC.Codeflix.Catalog\obj\Debug\net6.0\FC.Codeflix.Catalog.pdb
+C:\dev\FC.Codeflix.Catalog\src\FC.Codeflix.Catalog\obj\Debug\net6.0\ref\FC.Codeflix.Catalog.dll
